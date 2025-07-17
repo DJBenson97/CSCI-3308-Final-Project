@@ -1,4 +1,4 @@
-INSERT INTO cardiologs
+INSERT INTO weigthliftinglogs
   (
     id,
     workoutname,
